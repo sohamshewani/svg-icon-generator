@@ -1,0 +1,5 @@
+click
+fontawesome-svg-core
+svgwrite
+svgpathtools
+pytest
